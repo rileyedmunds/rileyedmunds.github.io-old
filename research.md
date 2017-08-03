@@ -53,6 +53,6 @@ September 2017, IROS 2017: *“Inclined Surface Locomotion Strategies for Spheri
 
 ## *Upcoming*
 
-BayLearn 2017: Bay Area Machine Learning Symposium: *"Neural Activation Function Search in Complex Valued Neural Networks"*
+BayLearn 2017, Bay Area Machine Learning Symposium: *"Neural Activation Function Search in Complex Valued Neural Networks"*
 
 
