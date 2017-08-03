@@ -1,19 +1,33 @@
 
 <div class="wrapper">
-  <center> <a href="/index.html"><div class="site-title">   {{site.title}} </div></a></center>
+  <center> <a href="/about"><div class="site-title">   {{site.title}} </div></a></center>
 </div>
 <div class="wrapper site-description">
 <center>  {{site.description}} </center>
 </div>
 <div class="wrapper">
   <div class="trigger site-navigation">
-    <a class="page-link" href="{{site.url}}{{site.baseurl}}">HOME</a>
+
+  	<center> 
+
+    <!-- <a class="page-link" href="{{about.url}}{{about.baseurl}}">ABOUT</a> -->
+    <!-- <a class="page-link" href="{{about.url | prepend: about.baseurl }}">{{about.title}}</a> -->
+
+    <!-- <a class="page-link" href="{{about.url | prepend: about.baseurl }}">ABOUT</a> -->
 
     {% for sitePage in site.pages %}
-    {% if sitePage.title %}
+      {% if sitePage.title %}
+        {% if forloop.first == true %}
+          <a class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a>
+      {% else %}
 
-    <span class="exclamationMark">/</span><a class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a>
-    {% endif %}
+      <span class="exclamationMark">/</span><a class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a>
+
+        {% endif %}
+      {% endif %}
     {% endfor %}
+
+    </center>
+
   </div>
 </div>

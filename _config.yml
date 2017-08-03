@@ -6,13 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Gravity
-email: hemangsk@gmail.com
-description: The Liberal Jekyll Theme
+title: Riley Edmunds
+email: edmunds
+description: Aspiring Researcher
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+url: "http://rileyedmunds.com" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  rileyedmunds
+linkedin_username: rileyedmunds
 paginate: 5
 
 gems: [jekyll-paginate, kramdown]
