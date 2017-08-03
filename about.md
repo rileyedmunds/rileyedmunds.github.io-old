@@ -6,7 +6,7 @@ redirect_from: ""
 ---
 <br>
 
-*Hello*, I’m Riley :)
+Hello, I’m Riley :)
 
 <br>
 
