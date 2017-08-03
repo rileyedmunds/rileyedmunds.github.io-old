@@ -2,10 +2,11 @@
 layout: page
 title : About
 permalink: /about/
+redirect_from: ""
 ---
 <br>
 
-Hello, I’m Riley :)
+*Hello*, I’m Riley :)
 
 <br>
 
