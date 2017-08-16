@@ -17,13 +17,16 @@ IROS 2017, Berkeley Emergent Space Tensegrities Lab and NASA Ames: *“Inclined 
 
 <br>
 # *Upcoming*
-Intuit IAT: *"A Survey of Anomaly Detection"*
+
+AI Safety and Security 2017, Artificial Intelligence Safety and Security (Edited Book): *"Adversarial Machine Learning"*
+<br><br>
+Intuit IAT: *"Semi-supervised Autoencoders for Anomaly Detection"*
 <br><br>
 Intuit IAT: *"Semi-supervised Recurrent Autoencoders for Anomaly Detection"*
 <br><br>
-Intuit IAT: *"Semi-supervised Clickstream Embeddings for Anomaly Detection"*
+Intuit IAT: *"Deep Hierarchical Semi-Supervised Embeddings for Dynamic Targeted Anomaly Detection"*
 <br><br>
-AI Safety and Security 2017, Artificial Intelligence Safety and Security (Edited Book): *"Adversarial Machine Learning"*
+
 
 <br><br>
 # **Talks**
