@@ -43,6 +43,7 @@ May 2017, Machine Learning at Berkeley: *“Complex-Valued Deep Neural Networks:
  July 2017, International Computer Science Institute: *“Tunable Efficient Unitary Neural Networks”*
 <br><br>
 August 2017, Intuit IAT Lab: *“Deep Hierarchical Semi-Supervised Embeddings for Dynamic Targeted Anomaly Detection”*
+  
 <br>
 
 ## *Upcoming*
