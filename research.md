@@ -12,7 +12,7 @@ tagline: "publications, talks, posters"
 
 
 IROS 2017, Berkeley Emergent Space Tensegrities Lab and NASA Ames: *“Inclined Surface Locomotion Strategies for Spherical Tensegrity Robots”*
-<br><br>
+<br>
 
 Intuit IAT: *"Deep Hierarchical Semi-Supervised Embeddings for Dynamic Targeted Anomaly Detection"*
 
@@ -21,7 +21,7 @@ Intuit IAT: *"Deep Hierarchical Semi-Supervised Embeddings for Dynamic Targeted 
 # *Upcoming*
 
 AI Safety and Security 2017, Artificial Intelligence Safety and Security (Edited Book): *"Adversarial Machine Learning"*
-<br><br>
+<br>
 
 September 2017, ICRA 2017: *“Path Integral Guided Policy Search on Fully Actuated Tensegrity Robots”*
 
@@ -44,12 +44,11 @@ May 2017, Machine Learning at Berkeley: *“Complex-Valued Deep Neural Networks:
 <br><br>
 August 2017, Intuit IAT Lab: *“Deep Hierarchical Semi-Supervised Embeddings for Dynamic Targeted Anomaly Detection”*
 <br>
-## *Upcoming*
 
-<br><br>
+## *Upcoming*
 September 2017, IROS 2017 (Vancouver): *“Inclined Surface Locomotion Strategies for Spherical Tensegrity Robots”*
 
-<br><br>
+<br>
 # **Posters**
 
 ## *Upcoming*
