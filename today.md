@@ -15,11 +15,6 @@ Feel free to follow along [here](https://docs.google.com/spreadsheets/d/1921snep
 
 <br>
 
-## Work
-*Research Intern*, [Intuit IAT](http://www.intuitlabs.com/about/): 
-<p>
-
-Researching semi-supervised architectures and neural language models.
 </p>
 
 ## Research
@@ -29,11 +24,21 @@ Researching semi-supervised architectures and neural language models.
 Researching complex-valued neural networks.
 </p>
 
-## Other
+*Deep Reinforcement Learning Research*, [B.E.S.T. Lab](https://www.icsi.berkeley.edu/icsi/)
+<p>
+Researching complex-valued neural networks.
+</p>
+
 
 *Director of Research*, [Machine Learning at Berkeley](https://ml.berkeley.edu/)
 <p>
 Managing internal research projects and guiding them to publication. 
 </p>
+
+## Work
+*Research Intern*, [Intuit IAT](http://www.intuitlabs.com/about/): 
+<p>
+
+Reporting on recent advances in deep learning at UC Berkeley.
 
 

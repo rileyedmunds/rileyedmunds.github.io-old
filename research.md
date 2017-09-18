@@ -23,7 +23,7 @@ Intuit IAT: *"Deep Hierarchical Semi-Supervised Embeddings for Dynamic Targeted 
 AI Safety and Security 2017, Artificial Intelligence Safety and Security (Edited Book): *"Adversarial Machine Learning"*
 <br>
 
-ICRA 2017: *“Path Integral Guided Policy Search on Fully Actuated Tensegrity Robots”*
+ICRA 2018: *“Deep Reinforcement Learning for Tensegrity Locomotion with Limited Sensory Inputs”*
 
 <br><br>
 # **Talks**
