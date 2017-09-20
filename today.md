@@ -25,7 +25,7 @@ Researching complex-valued neural networks.
 
 *Deep Reinforcement Learning Research*, [B.E.S.T. Lab](https://www.icsi.berkeley.edu/icsi/)
 <p>
-Researching complex-valued neural networks.
+Researching variations of Guided Policy Search.
 </p>
 
 
