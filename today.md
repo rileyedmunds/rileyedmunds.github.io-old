@@ -15,7 +15,6 @@ Feel free to follow along [here](https://docs.google.com/spreadsheets/d/1921snep
 
 <br>
 
-</p>
 
 ## Research
 
