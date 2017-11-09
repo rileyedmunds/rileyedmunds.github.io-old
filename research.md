@@ -15,12 +15,15 @@ IROS 2017, Berkeley Emergent Space Tensegrities Lab and NASA Ames: *“Inclined 
 <br>
 
 Intuit IAT: *"Deep Hierarchical Semi-Supervised Embeddings for Dynamic Targeted Anomaly Detection"*
+<br>
+
+AI Safety and Security 2017, Artificial Intelligence Safety and Security (Edited Book): *"Adversarial Machine Learning"*
 
 
 <br>
 # *Upcoming*
 
-AI Safety and Security 2017, Artificial Intelligence Safety and Security (Edited Book): *"Adversarial Machine Learning"*
+
 <br>
 
 ICRA 2018: *“Deep Reinforcement Learning for Tensegrity Locomotion with Limited Sensory Inputs”*
