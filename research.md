@@ -10,7 +10,7 @@ tagline: "publications, talks, posters"
 
 **Deep Reinforcement Learning for Tensegrity Locomotion with Limited Sensory Input.** *Jianlan Luo, **Riley F. Edmunds,** Franklin Rice, Alice M. Agogino.* Submitted to IEEE International Conference on Robotics and Automation (ICRA), 2018.
 
-**Transferability of Adversarial Attacks in Model-Agnostic Meta-Learning. *Riley Edmunds, ** Noah Golmant, Vinay Ramasesh, Philip Kuznetsov, Piyush Patil, Raul Puri.* Accepted at Deep Learning and Security Workshop (DLSW), 2017. 
+**Transferability of Adversarial Attacks in Model-Agnostic Meta-Learning.** ***Riley Edmunds,*** *Noah Golmant, Vinay Ramasesh, Philip Kuznetsov, Piyush Patil, Raul Puri.* Accepted at Deep Learning and Security Workshop (DLSW), 2017. 
 
 **Adversarial Machine Learning.** Phillip Kuznetsov, ***Riley F. Edmunds,** Ted Xiao, Humza Iqbal, Raul Puri, Noah Golmant.* Accepted as a chapter in the AI Safety and Security Textbook, 2017.
 
