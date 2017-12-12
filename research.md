@@ -6,7 +6,7 @@ tagline: "publications, talks, posters"
 ---
 
 <br>
-# **Publications** 
+# Publications
 
 **Deep Reinforcement Learning for Tensegrity Locomotion with Limited Sensory Input.** *Jianlan Luo, **Riley F. Edmunds,** Franklin Rice, Alice M. Agogino.* Submitted to IEEE International Conference on Robotics and Automation (ICRA), 2018.
 
@@ -20,7 +20,7 @@ tagline: "publications, talks, posters"
 
 
 <br>
-# **Talks**
+# Talks
 
 *“Deep Hierarchical Semi-Supervised Embeddings for Dynamic Targeted Anomaly Detection.”* Intuit I.A.T. Lab, August 2017.
 <br><br>
