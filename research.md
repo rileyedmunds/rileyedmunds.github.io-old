@@ -8,7 +8,7 @@ tagline: "publications, talks, posters"
 <br>
 # Publications
 
-**Deep Reinforcement Learning for Tensegrity Locomotion with Limited Sensory Input.** *Jianlan Luo, **Riley F. Edmunds,** Franklin Rice, Alice M. Agogino.* Submitted to IEEE International Conference on Robotics and Automation (ICRA), 2018.
+**Deep Reinforcement Learning for Tensegrity Locomotion with Limited Sensory Input.** *Jianlan Luo, **Riley F. Edmunds,** Franklin Rice, Alice M. Agogino.* Accepted at IEEE International Conference on Robotics and Automation (ICRA), 2018.
 
 **Transferability of Adversarial Attacks in Model-Agnostic Meta-Learning.** ***Riley F. Edmunds,*** *Noah Golmant, Vinay Ramasesh, Philip Kuznetsov, Piyush Patil, Raul Puri.* Accepted at Deep Learning and Security Workshop (DLSW), 2017. 
 
