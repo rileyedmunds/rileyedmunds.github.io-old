@@ -7,16 +7,10 @@ tagline: "What am I working on today?"
 ---
 <br>
 
-# Summer 2017 Reading List
-
-Feel free to follow along [here](https://docs.google.com/spreadsheets/d/1921snepdp5iQMqTfHic7fOtcgaXH27XK9MBS993cQXg/edit?usp=sharing)
-
-***
-
-<br>
-
 ## Work
 *Co-founder, Engineer*, [Alinea](http://www.alinea.ai) 
+
+<br>
 
 ## Research
 
@@ -35,6 +29,12 @@ Researching variations of Guided Policy Search.
 <p>
 Managing internal research projects and guiding them to publication. 
 </p>
+
+***
+
+# Summer 2017 Reading List
+
+Feel free to follow along [here].(https://docs.google.com/spreadsheets/d/1921snepdp5iQMqTfHic7fOtcgaXH27XK9MBS993cQXg/edit?usp=sharing)
 
 
 
