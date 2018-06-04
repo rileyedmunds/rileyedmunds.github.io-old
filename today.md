@@ -16,8 +16,7 @@ Feel free to follow along [here](https://docs.google.com/spreadsheets/d/1921snep
 <br>
 
 ## Work
-*Co-founder, Engineer*, [Alinea](http://www.alinea.ai): 
-<p>
+*Co-founder, Engineer*, [Alinea](http://www.alinea.ai) 
 
 ## Research
 
@@ -36,5 +35,6 @@ Researching variations of Guided Policy Search.
 <p>
 Managing internal research projects and guiding them to publication. 
 </p>
+
 
 
