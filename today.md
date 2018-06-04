@@ -32,7 +32,7 @@ Managing internal research projects and guiding them to publication.
 
 # Summer 2017 Reading List
 
-Feel free to follow along [here].(https://docs.google.com/spreadsheets/d/1921snepdp5iQMqTfHic7fOtcgaXH27XK9MBS993cQXg/edit?usp=sharing)
+Feel free to follow along [here](https://docs.google.com/spreadsheets/d/1921snepdp5iQMqTfHic7fOtcgaXH27XK9MBS993cQXg/edit?usp=sharing).
 
 
 
