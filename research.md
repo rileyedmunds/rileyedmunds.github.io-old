@@ -11,11 +11,13 @@ tagline: "publications, talks, posters"
 **<a href="http://rileyedmunds.com/download/icra2018.pdf" target="_blank">Deep Reinforcement Learning for Tensegrity Locomotion with Limited Sensory Input</a>.** *Jianlan Luo, **Riley F. Edmunds,** Franklin Rice, Alice M. Agogino.* Accepted at IEEE International Conference on Robotics and Automation (ICRA), 2018.
 
 **Transferability of Adversarial Attacks in Model-Agnostic Meta-Learning.** ***Riley F. Edmunds,*** *Noah Golmant, Vinay Ramasesh, Philip Kuznetsov, Piyush Patil, Raul Puri.* Accepted at Deep Learning and Security Workshop (DLSW), 2017. 
+<a href="http://rileyedmunds.com/download/dlsw2017.pdf" target="_blank">[pdf]</a>
 
-**<a href="http://rileyedmunds.com/download/adversarial-machine-learning.pdf" target="_blank">Adversarial Machine Learning</a>
+**<a href="http://rileyedmunds.com/download/adversarial-machine-learning" target="_blank">Adversarial Machine Learning</a>
 .** Phillip Kuznetsov, ***Riley F. Edmunds,** Ted Xiao, Humza Iqbal, Raul Puri, Noah Golmant.* Accepted as a chapter in the AI Safety and Security Textbook, 2017.
 
 **Hierarchical Semi-Supervised Embeddings for Anomaly Detection.** ***Riley F. Edmunds,** Efraim Feinstein.* Published internally to Intuit's Innovation and Advanced Technology Team (I.A.T.), 2017.
+<a href="http://rileyedmunds.com/download/iat2017.pdf" target="_blank">[pdf]</a>
 
 
 **<a href="http://rileyedmunds.com/download/iros2017.pdf" target="_blank">Inclined Surface Locomotion Strategies for Spherical Tensegrity Robots</a>
