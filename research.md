@@ -16,7 +16,9 @@ tagline: "publications, talks, posters"
 
 **Hierarchical Semi-Supervised Embeddings for Anomaly Detection.** ***Riley F. Edmunds,** Efraim Feinstein.* Published internally to Intuit's Innovation and Advanced Technology Team (I.A.T.), 2017.
 
-**[Inclined Surface Locomotion Strategies for Spherical Tensegrity Robots](http://rileyedmunds.com/download/iros2017.pdf).** *Lee-Huang Chen, Brian Cera, Edwward L. Zhu, **Riley F. Edmunds,** Franklin Rice, Antonia Bronars, Ellande Tang, Saunon R. Malekshahi, Osvaldo Romero, Adrian K. Agogino, Alice M. Agogino.* Accepted at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2017.
+
+**<a href="http://rileyedmunds.com/download/iros2017.pdf" target="_blank">Inclined Surface Locomotion Strategies for Spherical Tensegrity Robots</a>
+.** *Lee-Huang Chen, Brian Cera, Edwward L. Zhu, **Riley F. Edmunds,** Franklin Rice, Antonia Bronars, Ellande Tang, Saunon R. Malekshahi, Osvaldo Romero, Adrian K. Agogino, Alice M. Agogino.* Accepted at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2017.
 
 
 <br>
